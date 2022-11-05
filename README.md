@@ -12,7 +12,7 @@ Instructor:
 About: Babysitter Application. 
 This project is being built by 3 students. Each student fills a role. The three roles are: 
 
-1) Gaurdian (Ahlam) - The Gaurdian is seeking a Babysitter to babysit her child. 
+1) Guardian (Ahlam) - The Gaurdian is seeking a Babysitter to babysit her child. 
 
 2) Babysitter (Merritt) - The Babysitter is looking to find a Gaurdian in her location and price range. 
 
